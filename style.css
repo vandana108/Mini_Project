@@ -1,0 +1,45 @@
+body{
+  background-color: white;
+  margin: 0;
+  padding: 0;
+}
+.text{
+  color: aliceblue;
+  text-align: justify;
+  font-size: 2rem;
+  /* display: flex;  */
+  /* justify-content: center; */
+
+}
+.header{
+  background-color: #151816;
+  justify-content: center;
+  height: 100px;
+
+  padding-top: 50px;
+
+}
+.First{
+  
+  height: 400px;
+  /* background-color: red; */
+  width: 1000px;
+  margin-left: 350px;
+}
+.Overview{
+  font-size: 1.75rem;
+  margin-left: 0;
+}
+.list{
+  margin-left: 5px;
+  font-size: 1.25rem;
+  font-weight: bolder;
+  color: solid black;
+}
+.Greece {
+  font-size: 1.75rem;
+  font-weight: bolder;
+  margin: 0;
+  
+
+}
