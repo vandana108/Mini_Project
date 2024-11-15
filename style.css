@@ -1,7 +1,8 @@
-body{
+html, body{
   background-color: white;
   margin: 0;
   padding: 0;
+  width: 100%;
 }
 .text{
   color: aliceblue;
@@ -20,7 +21,7 @@ body{
 
 }
 .First{
-  
+  /* background-color: red; */
   height: 400px;
   /* background-color: red; */
   width: 1000px;
@@ -43,3 +44,27 @@ body{
   
 
 }
+.greece-img{
+  width: 800px;;
+}
+.Trip-Option{
+  font-size: 1.75rem;
+  font-weight: bolder;
+  margin-top: 15px;
+}
+
+.About-Athens{
+  font-style: normal;
+  margin-left: 5px;
+}
+.Volcanic-img{
+  width: 600p;
+}
+.Itinerary{
+  font-size: 1.75rem;
+  font-weight: bolder;
+  margin-top: 15px;
+
+}
+
+
